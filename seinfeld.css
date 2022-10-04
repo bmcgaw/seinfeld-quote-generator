@@ -1,0 +1,74 @@
+body {
+    background: url(http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Seinfeld-Wallpapers-19.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    color: gold;
+    background-color: black;
+    border: 7px solid red;
+    padding: 20px;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 700px;
+    font-size: 4rem;
+    width: 600px;
+    position: absolute;
+
+
+}
+
+h1:hover {
+    transition: 1s;
+    color: white;
+    cursor: pointer;
+}
+
+.festivus {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+blockquote,
+.citefrank {
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#quotes {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 700px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 100px;
+    width: 600px;
+}
+
+button {
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 940px;
+    height: 4rem;
+    width: 8rem;
+    background-color: tan;
+    font-size: 1.25rem;
+
+
+
+}
+
+
+.frankQuote {
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 820px;
+    color: white;
+
+}
